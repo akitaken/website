@@ -13,3 +13,5 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 [Git documentation](https://git-scm.com/doc)
+
+[How to change git primary branch to main](https://dev.to/afrodevgirl/replacing-master-with-main-in-github-2fjf)
